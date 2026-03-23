@@ -13,6 +13,6 @@ enable = true
 base_path = "./downloads"
 
 [[users]]
-id = = 114514 #8678660206:AAH_QiSNCL_5OXm1Wc4PWZ6aqqKzlkQy7kc
+= 114514 #8678660206:AAH_QiSNCL_5OXm1Wc4PWZ6aqqKzlkQy7kc
 storages = []
 blacklist = true
